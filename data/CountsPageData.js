@@ -1,0 +1,22 @@
+export const numbers = [
+    {
+        number:'100',
+        content:'Products'
+    },
+    {
+        number:'50',
+        content:'MVPs'
+    },
+    {
+        number:'7',
+        content:'Countries'
+    },
+    {
+        number:'200',
+        content:'Members'
+    },
+    {
+        number:'50',
+        content:'WorkShops'
+    }
+]
